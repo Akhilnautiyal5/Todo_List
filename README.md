@@ -30,7 +30,7 @@ To get started with the Todo List project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/Akhilnautiyal5/Todo_List.git
    ```
 
 2. **Navigate to the project directory**:
