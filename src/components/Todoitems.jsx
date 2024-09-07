@@ -2,7 +2,6 @@ import React from "react";
 import check from "../assets/check.png";
 import uncheck from "../assets/uncheck.png";
 import delete_icon from "../assets/delete.png";
-import components1 from "../assets/Component.png";
 
 const Todoitems = ({ id, task, iscompleted, deleteTodo, toggleCompleted }) => {
 	return (

@@ -1,6 +1,5 @@
 import React, { useEffect, useRef, useState } from "react";
 import todo_icon from "../assets/todo_icon.png";
-import todo from "../assets/to-do-list.png";
 import Todoitems from "./Todoitems";
 
 const To_do_Card = () => {
