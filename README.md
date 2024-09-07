@@ -1,5 +1,3 @@
-Sure! Here’s an updated README for your Todo List project that reflects the use of Vite and the new `npm start` command.
-
 # Todo List Project
 
 This is a simple Todo List application built using React.js and styled with Tailwind CSS. The application allows users to add, edit, and delete tasks, providing a clean and responsive interface for managing daily tasks.
@@ -32,7 +30,7 @@ To get started with the Todo List project, follow these steps:
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/yourusername/todo-list.git
+   git clone https://github.com/Akhilnautiyal5/Todo_List.git
    ```
 
 2. **Navigate to the project directory**:
